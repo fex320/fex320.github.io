@@ -13,3 +13,8 @@ h2 {
 p {
     color:blueviolet;
 }
+footer {
+    background-color: orangered;
+    text-align: center;
+    padding: 20px;
+}
