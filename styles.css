@@ -1,0 +1,14 @@
+body {
+    backgound-color: #bebebe;
+    font-family:sans-serif;
+    border: 5px solid orangered;
+}
+h1 {
+    color:orangered;
+}
+h2 {
+    color:red;
+}
+p {
+    color:blueviolet;
+}
