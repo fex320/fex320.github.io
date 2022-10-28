@@ -1,7 +1,7 @@
 body {
-    backgound-color: #bebebe;
+    background-color: #bebebe;
     font-family:sans-serif;
-    border: 5px solid orangered;
+    border-top: 20px solid orangered;
 }
 h1 {
     color:orangered;
